@@ -23,6 +23,17 @@ Dieses Dokument enthält Übersetzungen der Modbeschreibungen und Personalisieru
 
 *Du kannst nicht scheitern, egal was passiert.*
 
+### [`Half Time (HT)`](https://osu.ppy.sh/wiki/de/Gameplay/Game_modifier/Half_Time_%28lazer%29)
+
+#### Beschreibung
+
+*Weniger wusch...*
+
+#### Einstellungen
+
+- `Speed decrease`: `Geschwindigkeitsverringerung`
+- `Adjust pitch`: `Tonhöhe anpassen`
+
 [osu!]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/catch.png "osu!catch"
