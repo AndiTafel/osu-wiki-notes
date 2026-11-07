@@ -2,7 +2,20 @@
 
 Dieses Dokument enthält Übersetzungen der Modbeschreibungen und Personalisierungseinstellungen aller [lazer-Mods](https://osu.ppy.sh/wiki/de/Gameplay/Game_modifier_(lazer)#liste-der-mods), die später vielleicht auf Crowdin verwendet werden können.
 
+## Verringerung der Schwierigkeit
 
+### [`Easy (EZ)`](https://osu.ppy.sh/wiki/de/Gameplay/Game_modifier/Easy_%28lazer%29)
+
+#### Beschreibungen
+
+- ![][osu!] *Größere Circles, niedrigerer HP-Drain, weniger strikte Treffergenauigkeit und zusätzliche Leben!*
+- ![][osu!taiko] *Beats bewegen sich langsamer und weniger strikte Treffergenauigkeit!*
+- ![][osu!catch] *Größere Fruits, niedrigerer HP-Drain, weniger strikte Treffergenauigkeit und zusätzliche Leben!*
+- ![][osu!mania] *Niedrigerer HP-Drain, weniger strikte Treffergenauigkeit und zusätzliche Leben!*
+
+#### Einstellungen
+
+- `Extra Lives`: `Zusätzliche Leben`
 
 [osu!]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/taiko.png "osu!taiko"
