@@ -34,6 +34,16 @@ Dieses Dokument enthält Übersetzungen der Modbeschreibungen und Personalisieru
 - `Speed decrease`: `Geschwindigkeitsverringerung`
 - `Adjust pitch`: `Tonhöhe anpassen`
 
+### [`Daycore (DC)`](https://osu.ppy.sh/wiki/de/Gameplay/Game_modifier/Daycore)
+
+#### Beschreibung
+
+*Uuiiih...*
+
+#### Einstellungen
+
+- `Speed decrease`: `Geschwindigkeitsverringerung`
+
 [osu!]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/catch.png "osu!catch"
