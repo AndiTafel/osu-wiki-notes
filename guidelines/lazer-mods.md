@@ -44,6 +44,18 @@ Dieses Dokument enthält Übersetzungen der Modbeschreibungen und Personalisieru
 
 - `Speed decrease`: `Geschwindigkeitsverringerung`
 
+### [`Simplified Rhythm (SR)`](https://osu.ppy.sh/wiki/de/Gameplay/Game_modifier/Simplified_Rhythm)
+
+#### Beschreibung
+
+*Vereinfache knifflige Rhythmen!*
+
+#### Einstellungen
+
+- `1/3 to 1/2 conversion`: `Konvertierung von 1/3 zu 1/2`
+- `1/6 to 1/4 conversion`: `Konvertierung von 1/6 zu 1/4`
+- `1/8 to 1/4 conversion`: `Konvertierung von 1/8 zu 1/4`
+
 [osu!]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: https://raw.githubusercontent.com/ppy/osu-wiki/refs/heads/master/wiki/shared/mode/catch.png "osu!catch"
